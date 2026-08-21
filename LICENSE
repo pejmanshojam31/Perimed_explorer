@@ -1,0 +1,42 @@
+PERIMED Study — Data Explorer
+Software copyright © 2026 Pejman Shojaee. All rights reserved.
+
+================================================================================
+SOFTWARE LICENCE
+================================================================================
+
+This licence covers the software only: the "PERIMED Study — Data Explorer"
+application (index.html) and its source code, authored by Pejman Shojaee.
+
+Permission is hereby granted to use, copy, and modify this software for
+non-commercial academic and research purposes, provided that this copyright
+notice and attribution to Pejman Shojaee are retained in all copies or
+substantial portions of the software.
+
+Any other use — including commercial use, sale, or redistribution as part of a
+product or service — requires the prior written permission of the copyright
+holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+This software bundles the SheetJS Community Edition library
+(https://sheetjs.com/), which is distributed under the Apache License 2.0;
+that library remains under its own licence.
+
+================================================================================
+DATA NOTICE (NOT PART OF THE SOFTWARE LICENCE)
+================================================================================
+
+The PERIMED study data are the property of the Perakakis Lab.
+
+The PERIMED dataset is NOT included in this repository and is NOT covered by the
+software licence above. The application reads data files supplied locally by the
+user at runtime; no study data are stored in or distributed with this software.
+
+Any use of the PERIMED data — including access, analysis, publication, or
+sharing — requires the permission of the Perakakis Lab and remains subject to the
+Lab's data-governance, ethics, and consent agreements.
