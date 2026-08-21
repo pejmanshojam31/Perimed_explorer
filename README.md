@@ -72,4 +72,3 @@ Vanilla JavaScript, hand-drawn SVG charts, and [SheetJS](https://sheetjs.com/) (
 
 **Data** — the PERIMED study data are the property of the **Perakakis Lab**. They are **not** part of this repository and **not** covered by the software licence; the app reads a file supplied locally by the user at runtime. Any use of the data requires the Perakakis Lab's permission and remains subject to its ethics/consent and data-governance agreements.
 
-> If you produced this as part of your position, your institution (e.g. TU Dresden) and/or the Perakakis Lab may also have rights in the software — worth confirming with your PI. This notice is general information, not legal advice.
